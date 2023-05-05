@@ -13,7 +13,7 @@ from s3 import S3
 # if using api key
 from dotenv import load_dotenv
 load_dotenv()
-AWS_BUCKET_URL = "https://sarahgraup-pixly.s3.us-west-1.amazonaws.com"
+AWS_BUCKET_URL = "https://madelynromberg-pixly.s3.us-west-1.amazonaws.com"
 
 app = Flask(__name__)
 cors = CORS(app)
