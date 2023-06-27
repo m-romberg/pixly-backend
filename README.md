@@ -36,7 +36,7 @@
     <a href="https://github.com/m-romberg/pixly-backend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/m-romberg/pixly-backend">View Demo</a>
+    <a href="https://madelynromberg-pixly.surge.sh/">View Demo</a>
     ·
     <a href="https://github.com/m-romberg/pixly-backend/issues">Report Bug</a>
     ·
